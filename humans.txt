@@ -5,7 +5,7 @@
 
     Krasimir Marinov
     kmarinov@gwebu.com
-    Linux system administrator 
+    system administrator 
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
