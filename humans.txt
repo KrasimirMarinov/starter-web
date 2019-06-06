@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Krasimir Marinov <twitter>
+    Krasimir Marinov
+    kmarinov@gwebu.com
+    Linux system administrator 
 
 # THANKS
 
