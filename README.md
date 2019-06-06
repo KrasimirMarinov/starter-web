@@ -6,3 +6,9 @@ A lot of lectures are already submitted
 
 ## GIT and GITHUB training
 This is the famous and one of the best training course of DevOps
+
+## GIT Comparisons
+Adding GIT comparisons lecture
+
+## GitHub Content
+Comparisson with repo
