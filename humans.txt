@@ -4,6 +4,7 @@
  Hi, I am modifying the file before rebase.
 
  Doing some changes in Local.
+ Hi, I am going to insert conflicts in my feature branch.
 
 # TEAM
 
@@ -12,6 +13,7 @@
     system administrator, level III
     IT Organisation
     Beard: small and disappointing
+    IT Organisation: CTW Consulting
 
 # THANKS
 
