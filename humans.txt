@@ -7,7 +7,8 @@
 
     Krasimir Marinov
     kmarinov@gwebu.com
-    system administrator 
+    system administrator, level III
+    IT Organisation
 
 # THANKS
 
