@@ -5,7 +5,7 @@
 
     Krasimir Marinov
     kmarinov@gwebu.com
-    Linux system administrator 
+    system administrator 
 
 # THANKS
 
