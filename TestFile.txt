@@ -3,3 +3,4 @@ in a deal reportedly valued at around $80 million, according to the Wall Street 
 And it appears he landed himself a discount. 
 
 Adding new lines to the file in order to check the functionality of git fetch and git pull commands.
+Another change.
