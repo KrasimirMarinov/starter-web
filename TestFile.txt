@@ -4,3 +4,5 @@ And it appears he landed himself a discount.
 
 Adding new lines to the file in order to check the functionality of git fetch and git pull commands.
 Another change.
+
+The strange indian teacher doesn`t even know how to manage his lectures properly.
